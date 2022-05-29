@@ -1,8 +1,4 @@
-# DaleDale Command Line Sound
-
-<div style="text-align: center">
-    <img src="./daledale.jpg" height="300"/>
-</div>
+# Catchuco Command Line Sound
 
 > Dale dale dale dale PQP! 
 
@@ -15,23 +11,23 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale
+    npm install -g catchuco
 
 ## Running
 Run command:
 
-    daledale
+    cathuco
 
 Or import in NodeJS script:
 
-    import daledale from 'daledale';
+    import daledale from 'cathuco';
 
-    daledale();
+    cathuco();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale
+    npx cathuco
 
 
 ## See also
