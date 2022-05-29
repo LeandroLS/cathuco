@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LeandroLS/daledale.git"
+    "url": "git+ssh://git@github.com/LeandroLS/cathuco.git"
   },
   "keywords": [
-    "daledale"
+    "cathuco"
   ],
   "author": "Leandro Lima",
   "license": "MIT",
   "bin": {
-    "daledale": "./index.js"
+    "cathuco": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/LeandroLS/cathuco/issues"
