@@ -1,27 +1,27 @@
 {
-  "name": "daledale",
+  "name": "cathuco",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "Tem um cathuco bem no mei!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://git@github.com/LeandroLS/daledale.git"
   },
   "keywords": [
     "daledale"
   ],
-  "author": "AnaBastos",
+  "author": "Leandro Lima",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/LeandroLS/cathuco/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/LeandroLS/cathuco#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }

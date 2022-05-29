@@ -6,7 +6,7 @@ const fs = require('fs');
 const R = require('ramda');
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
-const soundPath = path.join(mainPath, './daledale');
+const soundPath = path.join(mainPath, './cathuco');
 
 const daledale = function (){
     const linuxcmd = R.join('', ['paplay ', soundPath, '.ogg']);
@@ -25,7 +25,7 @@ const daledale = function (){
         return exect(cmd, function (error) {
             R.ifElse(
                R.empty,
-               () => console.log('VAMO DALE!'),
+               () => console.log('Tem um catchuco bem no mei!'),
                (error) => console.error(error),
                error)
         });
