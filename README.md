@@ -1,6 +1,6 @@
 # Catchuco Command Line Sound
 
-> Dale dale dale dale PQP! 
+> Tem um cathuco bem no mei! 
 
 ## Compatibility
 
